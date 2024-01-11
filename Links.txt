@@ -37,7 +37,7 @@ Documentação:
 
 https://docs.ultralytics.com/modes/track/#configuration
 
-API:
+API intelbras:
 
 Documentação:
 
